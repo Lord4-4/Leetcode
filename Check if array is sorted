@@ -1,0 +1,11 @@
+class Solution {
+    public boolean arraySortedOrNot(int[] arr) {
+        // code here
+        int sarr[]=Arrays.copyOf(arr,arr.length);
+        Arrays.sort(sarr);
+        if(Arrays.equals(arr,sarr)){
+            return true;
+        }
+        return false;
+    }
+}
