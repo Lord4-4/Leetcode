@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+void printSubarrays(int arr[], int n) {
+    // Iterate over all possible starting points of subarrays
+    for (int i = 0; i < n; i++) {
+        int sum = 0; // Initialize sum for the subarray
+        // Iterate over all possible ending points of subarrays
+        for (int j = i; j < n; j++) {
+            sum += arr[j]; // Add element to subarray sum
+            // Print subarray
+            printf("Subarray: ");
+            for (int k = i; k <= j; k++) {
+                printf("%d ", arr[k]);
+            }
+            printf("| Sum: %d\n", sum);
+        }
+    }
+}
+
+int main() {
+    int arr[] = {1, 2, 3};
+    int n = sizeof(arr) / sizeof(arr[0]);
+
+    printf("All subarrays and their sums:\n");
+    printSubarrays(arr, n);
+
+    return 0;
+}
