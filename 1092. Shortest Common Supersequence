@@ -1,0 +1,63 @@
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+
+// Function to find the Shortest Common Supersequence
+char* shortestCommonSupersequence(char* str1, char* str2) {
+    int m = strlen(str1), n = strlen(str2);
+    
+    // Step 1: Compute LCS using DP
+    int dp[m + 1][n + 1];
+
+    for (int i = 0; i <= m; i++) {
+        for (int j = 0; j <= n; j++) {
+            if (i == 0 || j == 0) 
+                dp[i][j] = 0;
+            else if (str1[i - 1] == str2[j - 1]) 
+                dp[i][j] = 1 + dp[i - 1][j - 1];
+            else 
+                dp[i][j] = (dp[i - 1][j] > dp[i][j - 1]) ? dp[i - 1][j] : dp[i][j - 1];
+        }
+    }
+
+    // Step 2: Construct the SCS using LCS table
+    int i = m, j = n, index = m + n - dp[m][n];
+    char* scs = (char*)malloc((index + 1) * sizeof(char));
+    scs[index] = '\0'; // Null terminate the string
+
+    while (i > 0 && j > 0) {
+        if (str1[i - 1] == str2[j - 1]) {
+            scs[--index] = str1[i - 1];
+            i--; j--;
+        } else if (dp[i - 1][j] >= dp[i][j - 1]) {
+            scs[--index] = str1[i - 1];
+            i--;
+        } else {
+            scs[--index] = str2[j - 1];
+            j--;
+        }
+    }
+
+    while (i > 0) {
+        scs[--index] = str1[i - 1];
+        i--;
+    }
+
+    while (j > 0) {
+        scs[--index] = str2[j - 1];
+        j--;
+    }
+
+    return scs;
+}
+
+// Function for online platforms (use this instead of main)
+void solve() {
+    char str1[] = "abac";
+    char str2[] = "cab";
+
+    char* result = shortestCommonSupersequence(str1, str2);
+    printf("Shortest Common Supersequence: %s\n", result);
+
+    free(result); // Free allocated memory
+}
