@@ -20,10 +20,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Lord4-4/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Lord4-4/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Lord4-4/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Lord4-4/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Lord4-4/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
