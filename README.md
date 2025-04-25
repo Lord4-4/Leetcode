@@ -16,6 +16,7 @@
 | [0056-merge-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Lord4-4/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Lord4-4/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 ## Greedy
 |  |
 | ------- |
@@ -49,4 +51,24 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Lord4-4/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Math
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
