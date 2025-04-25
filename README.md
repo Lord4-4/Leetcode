@@ -15,6 +15,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/Lord4-4/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Lord4-4/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Lord4-4/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
@@ -36,4 +38,9 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
