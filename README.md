@@ -19,6 +19,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Lord4-4/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Lord4-4/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Lord4-4/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
 | ------- |
