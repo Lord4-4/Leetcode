@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Lord4-4/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Lord4-4/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Math
 |  |
 | ------- |
@@ -86,10 +87,12 @@
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Lord4-4/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Lord4-4/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Lord4-4/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Lord4-4/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -98,4 +101,9 @@
 |  |
 | ------- |
 | [0513-find-bottom-left-tree-value](https://github.com/Lord4-4/Leetcode/tree/master/0513-find-bottom-left-tree-value) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Lord4-4/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+## Backtracking
+|  |
+| ------- |
+| [1030-smallest-string-starting-from-leaf](https://github.com/Lord4-4/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 <!---LeetCode Topics End-->
