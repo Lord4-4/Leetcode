@@ -46,6 +46,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Lord4-4/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0868-push-dominoes](https://github.com/Lord4-4/Leetcode/tree/master/0868-push-dominoes) |
 ## Matrix
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Lord4-4/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0868-push-dominoes](https://github.com/Lord4-4/Leetcode/tree/master/0868-push-dominoes) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Lord4-4/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Math
 |  |
@@ -128,4 +130,8 @@
 | ------- |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Lord4-4/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Lord4-4/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Two Pointers
+|  |
+| ------- |
+| [0868-push-dominoes](https://github.com/Lord4-4/Leetcode/tree/master/0868-push-dominoes) |
 <!---LeetCode Topics End-->
