@@ -21,6 +21,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Lord4-4/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Lord4-4/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Lord4-4/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Lord4-4/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Lord4-4/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Lord4-4/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -33,6 +34,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Lord4-4/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/Lord4-4/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Lord4-4/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Lord4-4/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Lord4-4/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Sliding Window
 |  |
@@ -136,4 +138,8 @@
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/Lord4-4/Leetcode/tree/master/0868-push-dominoes) |
+## Counting
+|  |
+| ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Lord4-4/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 <!---LeetCode Topics End-->
