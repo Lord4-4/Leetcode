@@ -49,6 +49,7 @@
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Lord4-4/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0806-domino-and-tromino-tiling](https://github.com/Lord4-4/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Lord4-4/Leetcode/tree/master/0868-push-dominoes) |
 ## Matrix
 |  |
