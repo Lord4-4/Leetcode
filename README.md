@@ -28,6 +28,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Lord4-4/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Lord4-4/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Lord4-4/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Lord4-4/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Lord4-4/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Lord4-4/Leetcode/tree/master/0064-minimum-path-sum) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Lord4-4/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Lord4-4/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -148,4 +151,12 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Lord4-4/Leetcode/tree/master/2048-build-array-from-permutation) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Lord4-4/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Lord4-4/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
