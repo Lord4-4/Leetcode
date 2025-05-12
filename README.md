@@ -27,6 +27,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Lord4-4/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Lord4-4/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Lord4-4/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Lord4-4/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Lord4-4/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Lord4-4/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Lord4-4/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Lord4-4/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Lord4-4/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Lord4-4/Leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## String
 |  |
 | ------- |
