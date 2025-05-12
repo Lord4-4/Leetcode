@@ -22,6 +22,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Lord4-4/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Lord4-4/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Lord4-4/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/Lord4-4/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Lord4-4/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2048-build-array-from-permutation](https://github.com/Lord4-4/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Lord4-4/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
