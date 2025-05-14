@@ -42,6 +42,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Lord4-4/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Lord4-4/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Lord4-4/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Lord4-4/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0806-domino-and-tromino-tiling](https://github.com/Lord4-4/Leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Lord4-4/Leetcode/tree/master/0868-push-dominoes) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Lord4-4/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Lord4-4/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Lord4-4/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Matrix
 |  |
@@ -84,6 +86,7 @@
 | [0868-push-dominoes](https://github.com/Lord4-4/Leetcode/tree/master/0868-push-dominoes) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Lord4-4/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Lord4-4/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Lord4-4/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Lord4-4/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Math
 |  |
@@ -91,6 +94,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/Lord4-4/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Lord4-4/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Lord4-4/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Lord4-4/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Lord4-4/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Divide and Conquer
 |  |
@@ -161,6 +165,7 @@
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Lord4-4/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Lord4-4/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Lord4-4/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Simulation
 |  |
 | ------- |
